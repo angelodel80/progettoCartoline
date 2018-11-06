@@ -3,25 +3,34 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
+                <!-- TITOLO -->
                 <title>Amore di Pierrot - Edizione digitale<title>
                     <author>Giovanni</author>
                     <respStmt>
                         <resp>transcription by</resp>
                         <name xml:id="XX">XX</name>
                     </respStmt>
+
+                    <!-- ENTE DI APPARTENENZA -->
                     <respStmt>
                         <resp>Ente di Appartenenza</resp>
-                        <name type="comune" xml:id="SP">La Spezia</name>
+                        <name type="comune" xml:id="SP">Comune della Spezia</name>
                     </respStmt>
+
                 </titleStmt>
+
                 <editionStmt>
                     <edition>Edizione Studenti Unipi
                         <date>2018</date>
                     </edition>
+
+                    <!-- TRASCRITTORE -->
                     <respStmt>
                         <resp>encoding by</resp>
                         <name xml:id="XY">XY</name>
                     </respStmt>
+
+                    <!-- REFERENTE SCIENTIFICO -->
                     <respStmt>
                         <resp>Accademic reference</resp>
                         <name xml:id="XY">XY</name>
@@ -37,6 +46,7 @@
                         <name xml:id="YX">YX</name>
                     </respStmt>
                 </editionStmt>
+
                 <publicationStmt>
                     <publisher>Unipi</publisher>
                     <pubPlace>Pisa</pubPlace>
@@ -50,166 +60,172 @@
                         <addrLine>Pisa</addrLine>
                     </address>
                 </publicationStmt>
+
                 <noteStmt>
                     <note>Sculture di Mastroianni edizione propria n° 27</note>
                 </noteStmt>
+
                 <sourceDesc>
                     <bibl>
-                        <publisher>"Cromogliptica" A. Marzi</publisher>
-                        <pubPlace>Roma</pubPlace>
-                        <date>1916</date>
-                    </bibl>
-                    <msDesc>
-                        <!-- COLLOCAZIONE SPECIFICA -->
-                        <!-- CODICE IDENTIFICATIVO -->
-                        <msIdentifier>
-                            <country>Italia</country>
-                            <settlement>La Spezia (SP)</settlement>
-                            <repository>Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
-                            <idno>7694_004_001/002</idno>
-                            <msName>Amore di Pierrot</msName>
-                        </msIdentifier>
+                        <!-- TITLE -->
+                        <title>Amore di Pierrot</title>
+                            <publisher>"Cromogliptica" A. Marzi</publisher>
+                            <pubPlace>Roma</pubPlace>
+                            <date>1916</date>
+                        </bibl>
+                        <msDesc>
+                            <!-- COLLOCAZIONE SPECIFICA -->
+                            <!-- CODICE IDENTIFICATIVO -->
+                            <msIdentifier>
+                                <country>Italia</country>
+                                <settlement>La Spezia (SP)</settlement>
+                                <repository>Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                                <idno>7694_004_001/002</idno>
+                                <msName>Amore di Pierrot</msName>
+                            </msIdentifier>
 
-                        <!-- Informazioni sul contenuto della cartolina -->
-                        <!-- DESCRIZIONE -->
-                        <msContents>
-                            <summary>Cartolina Artistica</summary>
-                            <textLang>Italiano</textLang>
-                        </msContents>
+                            <!-- Informazioni sul contenuto della cartolina -->
+                            <!-- DESCRIZIONE -->
+                            <msContents>
+                                <summary>Cartolina Artistica</summary>
+                                <textLang>Italiano</textLang>
+                            </msContents>
 
-                        <!-- DIMENSIONE -->
-                        <!-- MATERIALI -->
-                        <physDesc >
-                            <objectDesc>
-                                <supportDesc>
-                                    <support>
-                                        <objectType>Cartolina</objectType>
-                                        <material>Carta</material>
-                                        <dimensions unit="cm">
-                                            <height>9</height>
-                                            <width>14</width>
-                                        </dimensions>
-                                        <stamp>...</stamp>
-                                    </support>
+                            <!-- DIMENSIONE -->
+                            <!-- MATERIALI -->
+                            <physDesc >
+                                <objectDesc>
+                                    <supportDesc>
+                                        <support>
+                                            <objectType>Cartolina</objectType>
+                                            <material>Carta</material>
+                                            <dimensions unit="cm">
+                                                <height>9</height>
+                                                <width>14</width>
+                                            </dimensions>
+                                            <stamp>...</stamp>
+                                        </support>
 
-                                    <!-- CONSERVAZIONE -->
-                                    <condition>Buono</condition>
-                                </supportDesc>
-                            </objectDesc>
-                        </phyDesc>
+                                        <!-- CONSERVAZIONE -->
+                                        <condition>Buono</condition>
+                                    </supportDesc>
+                                </objectDesc>
+                            </phyDesc>
 
 
 
-                        <history>
-                            <summary>
-                                <p>...</p>
-                            </summary>
-                        </history>
+                            <history>
+                                <summary>
+                                    <p>...</p>
+                                </summary>
+                            </history>
 
-                        <!-- TIPOLOGIA -->
-                        <additional> 
-                            <adminInfo>
-                                <note>Artistica</note>
-                            </adminInfo>
-                        </additional>
+                            <!-- TIPOLOGIA -->
+                            <additional>
+                                <adminInfo>
+                                    <note>Artistica</note>
+                                </adminInfo>
+                            </additional>
 
-                    </msDesc>
+                        </msDesc>
 
-                    <listPerson>
+                        <listPerson>
 
-                        <person xml:id="N">
-                            <persName>
-                                <forename></forename>
-                                <surname></surname>
-                            </persName>
-                            <sex></sex>
-                            <occupation n="1"></occupation>
-                            <note></note>
-                        </person>
-                    </listPerson>
+                            <person xml:id="N">
+                                <persName>
+                                    <forename></forename>
+                                    <surname></surname>
+                                </persName>
+                                <sex></sex>
+                                <occupation n="1"></occupation>
+                                <note></note>
+                            </person>
+                        </listPerson>
 
-                    <listPlace>
-                        <place xml:id="N">
+                        <listPlace>
+                            <place xml:id="N">
+                                <placeName>...</placeName>
+                                <settlement type="...">...</settlement>
+                                <district type="...">...</district>
+                                <district type="...">...</district>
+                                <country key="N">...</country>
+                                <note>...</note>
+                            </place>
+                        </listPlace>
+
+                        <listOrg>
+                            <org xml:id="N">
+                                <orgName type="N"></orgName>
+                                <desc>...</desc>
+                            </org>
+                        </listOrg>
+
+
+                    </sourceDesc>
+                </fileDesc>
+
+                <profileDesc>
+                    <correspDesc>
+                        <correspAction type="sent">
+                            <persName>...</persName>
                             <placeName>...</placeName>
-                            <settlement type="...">...</settlement>
-                            <district type="...">...</district>
-                            <district type="...">...</district>
-                            <country key="N">...</country>
-                            <note>...</note>
-                        </place>
-                    </listPlace>
+                            <date when="">...</date>
+                        </correspAction>
+                        <correspAction type="received">
+                            <persName>...</persName>
+                            <placeName>...</placeName>
+                        </correspAction >
+                        <correspContext>
+                            <!-- previous -->
+                            <!-- forward -->
+                        </correspContext>
+                    </correspDesc>
 
-                    <listOrg>
-                        <org xml:id="N">
-                            <orgName type="N"></orgName>
-                            <desc>...</desc>
-                        </org>
-                    </listOrg>
+                    <textClass>
+                        <keywords scheme="">
+                            <!-- soggettario -->
+                            <!-- tipologia -->
+                            <!-- descrizione -->
+                            <term> Cartolina </term>
+                            <term> Cartolina Artistica </term>
+                            <term>Coppia di innamorati</term>
+                        </keywords>
+                    </textClass>
+                    <langUsage id="ita">
+                        <language>italiano</language>
+                    </langUsage>
+                </profileDesc>
 
+            </teiHeader>
 
-                </sourceDesc>
-            </fileDesc>
-
-            <profileDesc>
-                <correspDesc>
-                    <correspAction type="sent">
-                        <persName>...</persName>
-                        <placeName>...</placeName>
-                        <date when="">...</date>
-                    </correspAction>
-                    <correspAction type="received">
-                        <persName>...</persName>
-                        <placeName>...</placeName>
-                    </correspAction >
-                    <correspContext>
-                        <!-- previous -->
-                        <!-- forward -->
-                    </correspContext>
-                </correspDesc>
-
-                <textClass>
-                    <keywords scheme="">
-                        <!-- soggettario -->
-                        <!-- tipologia -->
-                        <!-- descrizione -->
-                        <term> Cartolina </term>
-                        <term> Cartolina Artistica </term>
-                        <term>Coppia di innamorati</term>
-                    </keywords>
-                </textClass>
-                <langUsage id="ita">
-                    <language>italiano</language>
-                </langUsage>
-            </profileDesc>
-
-        </teiHeader>
-        <text>
-            <body>
-                <div type="fronte">
-                    <figure>
-                        <graphic url=""/>
-                        <figDesc>....</figDesc>
-                        <head>Coppia di innamorati</head>
-                    </figure>
-                </div>
-                <div facs="..." type="retro">
-                    <div type="message">
-                    <p>
-                        <!-- ... -->
-                    </p>
+            <!-- DEFINIZIONE -->
+            <text type="cartolina" xml:id="xx">
+                <body>
+                    <div type="fronte">
+                        <figure>
+                            <graphic url=""/>
+                            <figDesc>....</figDesc>
+                            <head>Coppia di innamorati</head>
+                        </figure>
                     </div>
-                    <div type="destination">
-                        <p>
-                            <!-- stamps -->
-                        </p>
-                        <p>
-                            <address>
+                    <div facs="..." type="retro">
+                        <div type="message">
+                            <p>
                                 <!-- ... -->
-                            </address>
-                        </p>
+                            </p>
+                        </div>
+                        <div type="destination">
+                            <p>
+                                <!-- stamps -->
+                            </p>
+                            <p>
+                                <address>
+                                    <!-- ... -->
+                                </address>
+                            </p>
+                        </div>
                     </div>
-                </div>
-            </body>
-        </text>
+                </body>
+            </text>
 
-    </TEI>
+        </TEI>
