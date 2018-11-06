@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/home/lou/Public/TEI-OX/Talks/2012-07-dhoxss/DHIntro/Markup/virgolos.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Card 19540818_1702 from the Virgolos Collection</title>
+            </titleStmt>
+            <publicationStmt><p>Unpublished</p></publicationStmt>
+            <sourceDesc><bibl><title>Genuine Curteich-Chicago "C.T. Art. c
+                Colortone" Post card. (reg u.s. pat. off.) </title><publisher>The Harry P Cann &amp; Bro Co., Baltimore, MD. </publisher></bibl></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body><div type="recto">
+            <figure>
+                <graphic url="19540818_1702r.jpg"/>
+                <head>7. Boardwalk Scene. Rehoboth, Delaware</head>
+            </figure>
+        </div><div type="verso" facs="19540818_1702v.jpg"><div type="message"><dateline>August 17th 1954</dateline>
+            
+          <salute>  Dear Edith</salute>
+            
+           <p> Received your
+            card from Honolulu.
+            You have had some fine
+            trips. I am here for August
+            with Herbert and family.
+            Hope to see you some
+            day. Geographic has splendid
+            ??? of Honolulu</p><signed>. Love Ezra.</signed>
+            </div><div type="destination">
+          <ab>  <address><addrLine><persName>Mrs Arthur Elmer</persName>
+            408 West 21st st.</addrLine><addrLine>
+            Wilmington.</addrLine><addrLine>
+            Delaware.</addrLine></address>
+            </ab>
+           <ab><stamp type="postmark"> Rehoboth Beach, Del
+           <date when="19540818"> Aug 18 1130 AM 1954</date></stamp></ab></div></div>../../../2014-10-odds/Cards/
+        </body>
+    </text>
+</TEI>

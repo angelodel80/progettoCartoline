@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Amore di Pierrot - Edizione digitale<title>
+                    <author>Giovanni</author>
+                    <respStmt>
+                        <resp>transcription by</resp>
+                        <name xml:id="XX">XX</name>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Ente di Appartenenza</resp>
+                        <name type="comune" xml:id="SP">La Spezia</name>
+                    </respStmt>
+                </titleStmt>
+                <editionStmt>
+                    <edition>Edizione Studenti Unipi
+                        <date>2018</date>
+                    </edition>
+                    <respStmt>
+                        <resp>encoding by</resp>
+                        <name xml:id="XY">XY</name>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Accademic reference</resp>
+                        <name xml:id="XY">XY</name>
+                        <name xml:id="XZ">XZ</name>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Accademic reference</resp>
+                        <name xml:id="XY">XY</name>
+                        <name xml:id="XZ">XZ</name>
+                    </respStmt>
+                    <respStmt>
+                        <resp>Funzionario responsabile</resp>
+                        <name xml:id="YX">YX</name>
+                    </respStmt>
+                </editionStmt>
+                <publicationStmt>
+                    <publisher>Unipi</publisher>
+                    <pubPlace>Pisa</pubPlace>
+                    <availability>
+                        <p>Available under licence only</p>
+                    </availability>
+                    <date when="2019">2019</date>
+                    <distributor>LabCD</distributor>
+                    <address>
+                        <addrLine>...</addrLine>
+                        <addrLine>Pisa</addrLine>
+                    </address>
+                </publicationStmt>
+                <noteStmt>
+                    <note>Sculture di Mastroianni edizione propria n° 27</note>
+                </noteStmt>
+                <sourceDesc>
+                    <bibl>
+                        <publisher>"Cromogliptica" A. Marzi</publisher>
+                        <pubPlace>Roma</pubPlace>
+                        <date>1916</date>
+                    </bibl>
+                    <msDesc>
+                    
+                    <!-- COLLOCAZIONE SPECIFICA -->
+                    <!-- CODICE IDENTIFICATIVO -->
+                    <!-- DIMENSIONE -->
+                    <!-- TIPOLOGIA -->
+                    <!-- DESCRIZIONE -->
+                    <!-- MATERIALI -->
+                    <!-- CONSERVAZIONE -->
+
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+
+            <profileDesc>
+                <correspDesc>
+                    <correspAction type="sent">
+                        <persName>...</persName>
+                        <placeName>...</placeName>
+                        <date when="">...</date>
+                    </correspAction>
+                    <correspAction type="received">
+                        <persName>...</persName>
+                        <placeName>...</placeName>
+                    </correspAction >
+                    <correspContext>
+                        <!-- previous -->                        <!-- forward -->
+                    </correspContext>
+                </correspDesc>
+
+                <textClass>
+                    <keywords scheme="">
+                        <!-- soggettario -->
+                        <term> Cartolina </term>
+                    </keywords>
+                </textClass>
+                <langUsage id="ita">
+                    <language>italiano</language>
+                </langUsage>
+            </profileDesc>
+
+        </teiHeader>
+        <text>
+            <body>
+                <div type="recto">
+                    <figure>
+                        <graphic url=""/>
+                        <figDesc>....</figDesc>
+                        <head>Coppia di innamorati</head>
+                    </figure>
+                </div>
+                <div facs="..." type="verso">
+                    <div type="message">
+                        <!-- ... -->
+                    </div>
+                    <div type="destination">
+                        <p>
+                            <!-- stamps -->
+                        </p>
+                        <p>
+                            <address>
+                                <!-- ... -->
+                            </address>
+                        </p>
+                    </div>
+                </div>
+            </body>
+        </text>
+
+    </TEI>

@@ -1,0 +1,5 @@
+
+<p>In this very simple schema, the root element is called <gi>book</gi> and it can contain the following elements: <specList>
+    <specDesc key="para"/>
+    <specDesc key="picture" atts="href"/>
+</specList></p>

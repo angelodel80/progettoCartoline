@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Test file for new customization</title>
+            </titleStmt>
+            <publicationStmt><p></p></publicationStmt>
+            <sourceDesc><p></p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+	  <p>There are three sections here: <ptr target="#one #two
+	  #three"/>; but we might also point to <ptr target="http://www.bbc.co.uk/"/>.</p>
+               <div>
+	<p xml:id="one"><add place="below">note bene:</add> Mary had a little
+	<alien xmlns="http://www.dixit.eu/ns/" type="woolly"
+	place="margin">Shawn-like</alien> lamb, and <del>everywhere
+	that mary went, that lamb sure to do</del><add
+	place="margin">yadda yadda</add></p></div>
+
+        <div type="verse">
+	  <p>See section <ptr target="#one"/></p>
+	  <p> Mary had a little <alien
+        xmlns="http://www.dixit.eu/ns/" type="woolly"
+        place="margin">Shawn-like</alien> lamb</p></div>
+
+        <div xml:id="three" type="verse">
+	  <lg>
+	    <l>The nerves tense up and then:</l>
+	    <l>You have gone to sleep.</l>
+	    <l>Something not anchored in love drifts out of reach.</l>
+	  </lg>
+	</div>
+
+        </body>
+    </text>
+</TEI>
