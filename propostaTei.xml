@@ -60,16 +60,93 @@
                         <date>1916</date>
                     </bibl>
                     <msDesc>
-                    
-                    <!-- COLLOCAZIONE SPECIFICA -->
-                    <!-- CODICE IDENTIFICATIVO -->
-                    <!-- DIMENSIONE -->
-                    <!-- TIPOLOGIA -->
-                    <!-- DESCRIZIONE -->
-                    <!-- MATERIALI -->
-                    <!-- CONSERVAZIONE -->
+                        <!-- COLLOCAZIONE SPECIFICA -->
+                        <!-- CODICE IDENTIFICATIVO -->
+                        <msIdentifier>
+                            <country>Italia</country>
+                            <settlement>La Spezia (SP)</settlement>
+                            <repository>Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                            <idno>7694_004_001/002</idno>
+                            <msName>Amore di Pierrot</msName>
+                        </msIdentifier>
+
+                        <!-- Informazioni sul contenuto della cartolina -->
+                        <!-- DESCRIZIONE -->
+                        <msContents>
+                            <summary>Cartolina Artistica</summary>
+                            <textLang>Italiano</textLang>
+                        </msContents>
+
+                        <!-- DIMENSIONE -->
+                        <!-- MATERIALI -->
+                        <physDesc >
+                            <objectDesc>
+                                <supportDesc>
+                                    <support>
+                                        <objectType>Cartolina</objectType>
+                                        <material>Carta</material>
+                                        <dimensions unit="cm">
+                                            <height>9</height>
+                                            <width>14</width>
+                                        </dimensions>
+                                        <stamp>...</stamp>
+                                    </support>
+
+                                    <!-- CONSERVAZIONE -->
+                                    <condition>Buono</condition>
+                                </supportDesc>
+                            </objectDesc>
+                        </phyDesc>
+
+
+
+                        <history>
+                            <summary>
+                                <p>...</p>
+                            </summary>
+                        </history>
+
+                        <!-- TIPOLOGIA -->
+                        <additional> 
+                            <adminInfo>
+                                <note>Artistica</note>
+                            </adminInfo>
+                        </additional>
 
                     </msDesc>
+
+                    <listPerson>
+
+                        <person xml:id="N">
+                            <persName>
+                                <forename></forename>
+                                <surname></surname>
+                            </persName>
+                            <sex></sex>
+                            <occupation n="1"></occupation>
+                            <note></note>
+                        </person>
+                    </listPerson>
+
+                    <listPlace>
+                        <place xml:id="N">
+                            <placeName>...</placeName>
+                            <settlement type="...">...</settlement>
+                            <district type="...">...</district>
+                            <district type="...">...</district>
+                            <country key="N">...</country>
+                            <note>...</note>
+                        </place>
+                    </listPlace>
+
+                    <listOrg>
+                        <org xml:id="N">
+                            <orgName type="N"></orgName>
+                            <desc>...</desc>
+                        </org>
+                    </listOrg>
+
+
                 </sourceDesc>
             </fileDesc>
 
@@ -85,14 +162,19 @@
                         <placeName>...</placeName>
                     </correspAction >
                     <correspContext>
-                        <!-- previous -->                        <!-- forward -->
+                        <!-- previous -->
+                        <!-- forward -->
                     </correspContext>
                 </correspDesc>
 
                 <textClass>
                     <keywords scheme="">
                         <!-- soggettario -->
+                        <!-- tipologia -->
+                        <!-- descrizione -->
                         <term> Cartolina </term>
+                        <term> Cartolina Artistica </term>
+                        <term>Coppia di innamorati</term>
                     </keywords>
                 </textClass>
                 <langUsage id="ita">
@@ -103,16 +185,18 @@
         </teiHeader>
         <text>
             <body>
-                <div type="recto">
+                <div type="fronte">
                     <figure>
                         <graphic url=""/>
                         <figDesc>....</figDesc>
                         <head>Coppia di innamorati</head>
                     </figure>
                 </div>
-                <div facs="..." type="verso">
+                <div facs="..." type="retro">
                     <div type="message">
+                    <p>
                         <!-- ... -->
+                    </p>
                     </div>
                     <div type="destination">
                         <p>
