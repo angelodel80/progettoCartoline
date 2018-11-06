@@ -1,25 +1,25 @@
 **DEFINIZIONE                         Cartolina
 **ENTE DI APPARTENENZA                Comune della Spezia
-*COLLOCAZIONE SPECIFICA              Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale
-*CODICE IDENTIFICATIVO               7694_004_001/002
-*TITOLO                              Amore di Pierrot
-*PRODUZIONE                          "Cromogliptica" A. Marzi - Roma	
-*CRONOLOGIA                          1916
-*DATA                                1916/12/19
-*DIMENSIONE                          14x9cm
-*TIPOLOGIA                           Artistica	
-*DESCRIZIONE	                        Cartolina artistica
-*SOGGETTO                            Coppia di innamorati	
-*NOMI                                Giovanni, Turtura Oliva, Mastroianni, Marzi A.	
-*LUOGO                               Roma	
-*MATERIALI                           Carta	
-*CONSERVAZIONE                       Buono	
-*TRASCRIZIONE	                    Codifica TEI XML
-*NOTE	                            Sculture di Mastroianni edizione propria n° 27
-*COMPILAZIONE	                    2018
-*NOME COMPILATORE                    Tommaso Castagneto	
-*REFERENTE SCIENTIFICO               Paolicchi G. ,Salvatori E.	 	
-*FUNZIONARIO RESPONSABILE            E.Ratti	
+**COLLOCAZIONE SPECIFICA              Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale
+**CODICE IDENTIFICATIVO               7694_004_001/002
+**TITOLO                              Amore di Pierrot
+**PRODUZIONE                          "Cromogliptica" A. Marzi - Roma	
+**CRONOLOGIA                          1916
+**DATA                                1916/12/19
+**DIMENSIONE                          14x9cm
+**TIPOLOGIA                           Artistica	
+**DESCRIZIONE	                        Cartolina artistica
+**SOGGETTO                            Coppia di innamorati	
+**NOMI                                Giovanni, Turtura Oliva, Mastroianni, Marzi A.	
+**LUOGO                               Roma	
+**MATERIALI                           Carta	
+**CONSERVAZIONE                       Buono	
+**TRASCRIZIONE	                    Codifica TEI XML
+**NOTE	                            Sculture di Mastroianni edizione propria n° 27
+**COMPILAZIONE	                    2018
+**NOME COMPILATORE                    Tommaso Castagneto	
+**REFERENTE SCIENTIFICO               Paolicchi G. ,Salvatori E.	 	
+**FUNZIONARIO RESPONSABILE            E.Ratti	
 **TRASCRITTORE                        Nome trascrittore
 
 																   

@@ -6,6 +6,7 @@
                 <!-- TITOLO -->
                 <title>Amore di Pierrot - Edizione digitale</title>
                 <author>Giovanni</author>
+                <!-- TRASCRITTORE -->
                 <respStmt>
                     <resp>transcription by</resp>
                     <name xml:id="XX">XX</name>
@@ -21,10 +22,11 @@
 
             <editionStmt>
                 <edition>Edizione Studenti Unipi
+                    <!-- COMPILAZIONE -->
                     <date>2018</date>
                 </edition>
 
-                <!-- TRASCRITTORE -->
+                <!-- NOME COMPILATORE -->
                 <respStmt>
                     <resp>encoding by</resp>
                     <name xml:id="XY">XY</name>
@@ -61,6 +63,7 @@
                 </address>
             </publicationStmt>
 
+            <!-- NOTE -->
             <noteStmt>
                 <note>Sculture di Mastroianni edizione propria n° 27</note>
             </noteStmt>
@@ -69,8 +72,11 @@
                 <bibl>
                     <!-- TITLE -->
                     <title>Amore di Pierrot</title>
+                    <!-- PRODUZIONE -->
                     <publisher>"Cromogliptica" A. Marzi</publisher>
+                    <!-- LUOGO -->
                     <pubPlace>Roma</pubPlace>
+                    <!-- CRONOLOGIA -->
                     <date>1916</date>
                 </bibl>
                 <msDesc>
@@ -79,8 +85,11 @@
                     <msIdentifier>
                         <country>Italia</country>
                         <settlement>La Spezia (SP)</settlement>
+                        <!-- COLLOCAZIONE SPECIFICA -->
                         <repository>Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                        <!-- CODICE IDENTIFICATIVO -->
                         <idno>7694_004_001/002</idno>
+                        <!-- TITOLO -->
                         <msName>Amore di Pierrot</msName>
                     </msIdentifier>
 
@@ -91,14 +100,16 @@
                         <textLang>Italiano</textLang>
                     </msContents>
 
-                    <!-- DIMENSIONE -->
-                    <!-- MATERIALI -->
+                    
+                    
                     <physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <support>
                                     <objectType>Cartolina</objectType>
+                                    <!-- MATERIALI -->
                                     <material>Carta</material>
+                                    <!-- DIMENSIONE -->
                                     <dimensions unit="cm">
                                         <height>9</height>
                                         <width>14</width>
@@ -128,7 +139,9 @@
                     </additional>
 
                 </msDesc>
-
+                
+                <!-- NOMI -->
+                
                 <listPerson>
 
                     <person xml:id="N">
@@ -169,6 +182,7 @@
                 <correspAction type="sent">
                     <persName>...</persName>
                     <placeName>...</placeName>
+                    <!-- DATA -->
                     <date when="">...</date>
                 </correspAction>
                 <correspAction type="received">
@@ -201,6 +215,7 @@
 
     <!-- DEFINIZIONE -->
     <text type="cartolina" xml:id="xx">
+        <!-- TRASCRIZIONE -->
         <body>
             <div type="fronte">
                 <figure>
@@ -228,5 +243,4 @@
             </div>
         </body>
     </text>
-
 </TEI>
