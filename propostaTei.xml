@@ -22,25 +22,25 @@
 
             <editionStmt>
                 <edition>Edizione Studenti Unipi
-                                        <!-- COMPILAZIONE -->
+                                                            <!-- COMPILAZIONE -->
                     <date>2018</date>
                 </edition>
 
                 <!-- NOME COMPILATORE -->
                 <respStmt>
                     <resp>encoding by</resp>
-                    <name xml:id="XY">XY</name>
+                    <name xml:id="XY1">XY</name>
                 </respStmt>
 
                 <!-- REFERENTE SCIENTIFICO -->
                 <respStmt>
                     <resp>Accademic reference</resp>
-                    <name xml:id="XY">XY</name>
-                    <name xml:id="XZ">XZ</name>
+                    <name xml:id="XY2">XY</name>
+                    <name xml:id="XZ1">XZ</name>
                 </respStmt>
                 <respStmt>
                     <resp>Accademic reference</resp>
-                    <name xml:id="XY">XY</name>
+                    <name xml:id="XY3">XY</name>
                     <name xml:id="XZ">XZ</name>
                 </respStmt>
                 <respStmt>
@@ -64,9 +64,9 @@
             </publicationStmt>
 
             <!-- NOTE -->
-            <noteStmt>
+            <notesStmt>
                 <note>Sculture di Mastroianni edizione propria n° 27</note>
-            </noteStmt>
+            </notesStmt>
 
             <sourceDesc>
                 <bibl>
@@ -156,7 +156,7 @@
                 </listPerson>
 
                 <listPlace>
-                    <place xml:id="N">
+                    <place xml:id="N2">
                         <placeName>...</placeName>
                         <settlement type="...">...</settlement>
                         <district type="...">...</district>
@@ -167,7 +167,7 @@
                 </listPlace>
 
                 <listOrg>
-                    <org xml:id="N">
+                    <org xml:id="N3">
                         <orgName type="N"></orgName>
                         <desc>...</desc>
                     </org>
@@ -183,15 +183,17 @@
                     <persName>...</persName>
                     <placeName>...</placeName>
                     <!-- DATA -->
-                    <date when="">...</date>
+                    <date when="1916-12-19">1916/12/19</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName>...</persName>
                     <placeName>...</placeName>
                 </correspAction>
                 <correspContext>
-                    <!-- previous -->
-                    <!-- forward -->
+                    <p>
+                        <!-- previous -->
+                        <!-- forward -->
+                    </p>
                 </correspContext>
             </correspDesc>
 
@@ -206,8 +208,8 @@
                 </keywords>
             </textClass>
 
-            <langUsage id="ita">
-                <language>italiano</language>
+            <langUsage>
+                <language ident="it-IT">italiano</language>
             </langUsage>
         </profileDesc>
 
@@ -234,7 +236,7 @@
                     <p>
                         <!-- stamps -->
                         <stamp type="postmark">...                            <mentioned>...</mentioned>
-                            <date when="">...</date>
+                            <date when="1916-12-19">1916/12/19</date>
                         </stamp>
                         <stamp type="postage"></stamp>
                     </p>

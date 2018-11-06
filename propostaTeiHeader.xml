@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Amore di Pierrot - Edizione digitale<title>
+                <title>Amore di Pierrot - Edizione digitale</title>
                     <author>Giovanni</author>
                     <respStmt>
                         <resp>transcription by</resp>
@@ -13,7 +13,8 @@
                         <resp>Ente di Appartenenza</resp>
                         <name type="comune" xml:id="SP">La Spezia</name>
                     </respStmt>
-                </titleStmt>
+            </titleStmt> 
+                
                 <editionStmt>
                     <edition>Edizione Studenti Unipi
                         <date>2018</date>
